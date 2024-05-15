@@ -668,7 +668,7 @@ Rank,Name,Platform,Year,Genre,Publisher,Developer,Critic_Score,User_Score,NA_Sal
 667,FIFA 16,PS3,2015,Sports,EA Sports  ,EA Canada  ,9.0,,0.43,1.68,0.05,0.38,2.55
 668,Pokémon Colosseum,GC,2004,Role-Playing,Nintendo  ,Genius Sonority Inc.  ,7.0,,1.21,0.57,0.7,0.07,2.54
 669,Madden NFL 09,X360,2008,Sports,EA Sports  ,EA Tiburon  ,8.5,,2.21,0.12,,0.2,2.54
-670,Space Invaders,2600,2078,Shooter,Atari  ,Atari  ,,,2.36,0.14,,0.03,2.53
+670,Space Invaders,2600,1978,Shooter,Atari  ,Atari  ,,,2.36,0.14,,0.03,2.53
 671,Art Academy,DS,2010,Misc,Nintendo  ,Headstrong Games  ,6.8,,0.26,1.66,0.33,0.27,2.52
 672,Crazy Taxi,PS2,2001,Racing,Acclaim Entertainment  ,Hitmaker  ,8.2,,1.13,1.12,0.06,0.22,2.52
 673,Perfect Dark,N64,2000,Shooter,Rare  ,Rare Ltd.  ,9.7,,1.55,0.75,0.16,0.06,2.52
@@ -1037,7 +1037,7 @@ Rank,Name,Platform,Year,Genre,Publisher,Developer,Critic_Score,User_Score,NA_Sal
 1036,Kingdom Hearts: Chain of Memories,GBA,2004,Role-Playing,Square Enix  ,Jupiter Corporation  ,7.4,,1.26,0.18,0.35,0.06,1.85
 1037,Pinball,NES,1985,Misc,Nintendo  ,Nintendo  ,,,0.8,0.19,0.83,0.03,1.85
 1038,Phineas and Ferb,DS,2009,Action,Disney Interactive Studios  ,Disney Interactive Studios  ,,,1.33,0.37,,0.15,1.85
-1039,Gran Turismo Concept 2001 Tokyo,PS2,N/A,Racing,Unknown  ,Polyphony Digital  ,,,,1.1,0.42,0.33,1.84
+1039,Gran Turismo Concept 2001 Tokyo,PS2,2002,Racing,Unknown  ,Polyphony Digital  ,,,,1.1,0.42,0.33,1.84
 1040,Professor Layton and the Mask of Miracle,3DS,2012,Puzzle,Nintendo  ,Level 5  ,8.4,,0.32,1.05,0.36,0.11,1.84
 1041,Forza Horizon 4,XOne,2018,Racing,Microsoft Studios  ,Playground Games  ,9.2,,0.74,0.95,0.01,0.15,1.84
 1042,NCAA Football 06,PS2,2005,Sports,EA Sports  ,EA Tiburon  ,,,1.53,0.05,,0.25,1.84
@@ -1639,7 +1639,7 @@ Rank,Name,Platform,Year,Genre,Publisher,Developer,Critic_Score,User_Score,NA_Sal
 1638,The Beatles: Rock Band,X360,2009,Misc,MTV Games  ,Harmonix Music Systems  ,8.9,,0.97,0.23,,0.11,1.31
 1639,EA Sports UFC 2,PS4,2016,Sports,EA Sports  ,EA Canada  ,,,0.44,0.65,,0.21,1.31
 1640,Burnout 3: Takedown,XB,2004,Racing,Electronic Arts  ,Criterion Games  ,9.3,,0.84,0.43,,0.04,1.31
-1641,Adventure,2600,2078,Adventure,Atari  ,Atari  ,,,1.21,0.08,,0.01,1.3
+1641,Adventure,2600,1978,Adventure,Atari  ,Atari  ,,,1.21,0.08,,0.01,1.3
 1642,Yu-Gi-Oh! The Sacred Cards,GBA,2003,Role-Playing,Konami  ,Konami  ,,,0.94,0.35,,0.02,1.3
 1643,NBA Live 07,PS2,2006,Sports,EA Sports  ,EA Canada  ,6.3,,1.07,0.04,0.02,0.17,1.3
 1644,Final Fantasy X / X-2 HD Remaster,PS3,2014,Role-Playing,Square Enix  ,Square Enix  ,8.5,,0.43,0.39,0.32,0.16,1.3
@@ -1719,7 +1719,7 @@ Rank,Name,Platform,Year,Genre,Publisher,Developer,Critic_Score,User_Score,NA_Sal
 1718,NBA Live 2001,PS,2000,Sports,EA Sports  ,EA Canada  ,,,0.7,0.47,,0.08,1.25
 1719,Persona 4 Golden,PSV,2012,Role-Playing,Atlus  ,Atlus  ,,,0.37,0.29,0.39,0.21,1.25
 1720,Star Wars: The Force Unleashed,PS2,2008,Action,LucasArts  ,Krome Studios  ,,,0.49,0.0,0.01,0.75,1.25
-1721,Combat,2600,2077,Action,Atari  ,Atari  ,,,1.17,0.07,,0.01,1.25
+1721,Combat,2600,1977,Action,Atari  ,Atari  ,,,1.17,0.07,,0.01,1.25
 1722,Kingdom Hearts HD II.5 ReMIX,PS3,2014,Role-Playing,Square Enix  ,Square Enix  ,,,0.52,0.36,0.19,0.18,1.25
 1723,Dragon Ball: Daimaou Fukkatsu,NES,1988,Role-Playing,Bandai  ,TOSE  ,,,,,1.25,0.0,1.25
 1724,Gegege no Kitarou 2: Youkai Gundan no Chousen,NES,1987,Role-Playing,Bandai  ,Bandai  ,,,,,1.25,0.0,1.25
