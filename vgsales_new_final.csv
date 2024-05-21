@@ -69,7 +69,7 @@ Rank,Name,Platform,Year,Genre,Publisher,Developer,Critic_Score,User_Score,NA_Sal
 68,Pokémon FireRed / LeafGreen Version,GBA,2004,Role-Playing,Nintendo  ,Game Freak  ,8.3,,4.34,2.65,3.15,0.35,10.49
 69,Call of Duty: Ghosts,X360,2013,Shooter,Activision  ,Infinity Ward  ,6.9,,6.76,2.64,0.04,0.98,10.41
 70,Uncharted 4: A Thief's End,PS4,2016,Action,Sony Interactive Entertainment  ,Naughty Dog  ,9.2,,4.49,3.93,0.21,1.7,10.33
-71,Just Dance 3,Wii,2011,Misc,Ubisoft  ,Ubisoft Paris  ,7.5,,5.95,3.13,,1.06,10.14
+71,Just Dance 3,Wii,2011,Music,Ubisoft  ,Ubisoft Paris  ,7.5,,5.95,3.13,,1.06,10.14
 72,Call of Duty: Ghosts,PS3,2013,Shooter,Activision  ,Infinity Ward  ,7.5,,4.11,4.01,0.39,1.62,10.13
 73,Halo: Reach,X360,2010,Shooter,Microsoft Game Studios  ,Bungie  ,9.3,,7.08,2.01,0.08,0.8,9.97
 74,Halo 4,X360,2012,Shooter,Microsoft Studios  ,343 Industries  ,,,6.72,2.36,0.04,0.83,9.96
@@ -78,13 +78,13 @@ Rank,Name,Platform,Year,Genre,Publisher,Developer,Critic_Score,User_Score,NA_Sal
 77,Final Fantasy VII,PS,1997,Role-Playing,Sony Computer Entertainment  ,SquareSoft  ,9.6,9.5,3.01,2.47,3.28,0.96,9.72
 78,Gran Turismo 2,PS,1999,Racing,Sony Computer Entertainment  ,Polyphony Digital  ,9.2,,3.88,3.42,1.69,0.5,9.49
 79,The Legend of Zelda: Breath of the Wild,NS,2017,Action-Adventure,Nintendo  ,Nintendo EPD  ,9.9,10.0,4.54,2.94,1.26,0.73,9.46
-80,Just Dance 2,Wii,2010,Misc,Ubisoft  ,Ubisoft Paris  ,7.3,,5.8,2.86,0.01,0.77,9.45
+80,Just Dance 2,Wii,2010,Music,Ubisoft  ,Ubisoft Paris  ,7.3,,5.8,2.86,0.01,0.77,9.45
 81,Call of Duty 4: Modern Warfare,X360,2007,Shooter,Activision  ,Infinity Ward  ,9.6,9.0,5.98,2.39,0.13,0.91,9.41
 82,Call of Duty: Black Ops IIII,PS4,2018,Shooter,Activision  ,Treyarch  ,,,4.05,3.28,0.5,1.49,9.32
 83,Donkey Kong Country,SNES,1994,Platform,Nintendo  ,Rare Ltd.  ,9.0,,4.36,1.71,3.0,0.23,9.3
 84,FIFA 19,PS4,2018,Sports,Electronic Arts  ,EA Sports  ,,,0.84,6.87,0.1,1.34,9.15
 85,Super Smash Bros. Ultimate,NS,2018,Fighting,Nintendo  ,Bandai Namco Games  ,9.4,9.7,4.22,1.72,2.41,0.61,8.95
-86,Mario Party DS,DS,2007,Misc,Nintendo  ,Hudson Soft  ,7.1,,4.4,1.86,1.98,0.69,8.93
+86,Mario Party DS,DS,2007,Party,Nintendo  ,Hudson Soft  ,7.1,,4.4,1.86,1.98,0.69,8.93
 87,The Elder Scrolls V: Skyrim,X360,2011,Role-Playing,Bethesda Softworks  ,Bethesda Game Studios  ,9.3,,5.1,2.83,0.1,0.85,8.88
 88,Super Mario Kart,SNES,1992,Racing,Nintendo  ,Nintendo EAD  ,10.0,,3.54,1.24,3.81,0.18,8.76
 89,Marvel's Spider-Man,PS4,2018,Action-Adventure,Sony Interactive Entertainment  ,Insomniac Games  ,9.1,,3.64,3.39,0.32,1.41,8.76
@@ -94,7 +94,7 @@ Rank,Name,Platform,Year,Genre,Publisher,Developer,Critic_Score,User_Score,NA_Sal
 93,Fallout 4,PS4,2015,Role-Playing,Bethesda Softworks  ,Bethesda Game Studios  ,8.6,,2.91,3.97,0.27,1.34,8.48
 94,Wii Party,Wii,2010,Misc,Nintendo  ,"Nd Cube Co., Ltd.  ",7.0,,1.75,3.51,2.49,0.66,8.41
 95,Super Smash Bros. for 3DS,3DS,2014,Fighting,Nintendo  ,Bandai Namco Games  ,8.4,,3.73,1.5,2.55,0.54,8.32
-96,Mario Party 8,Wii,2007,Misc,Nintendo  ,Hudson Soft  ,6.5,,3.74,2.27,1.58,0.7,8.3
+96,Mario Party 8,Wii,2007,Party,Nintendo  ,Hudson Soft  ,6.5,,3.74,2.27,1.58,0.7,8.3
 97,FIFA 16,PS4,2015,Sports,EA Sports  ,EA Canada  ,8.5,,1.15,5.77,0.07,1.23,8.22
 98,Pokémon Black 2 and White 2,DS,2012,Role-Playing,Nintendo  ,Game Freak  ,8.0,8.3,2.79,1.79,3.16,0.43,8.16
 99,GoldenEye 007,N64,1997,Shooter,Nintendo  ,Rare Ltd.  ,9.8,,5.8,2.01,0.13,0.15,8.09
@@ -118,7 +118,7 @@ Rank,Name,Platform,Year,Genre,Publisher,Developer,Critic_Score,User_Score,NA_Sal
 117,Battlefield 3,X360,2011,Shooter,Electronic Arts  ,Dice  ,8.5,,4.47,2.12,0.06,0.69,7.35
 118,Battlefield 1,PS4,2016,Shooter,Electronic Arts  ,EA DICE  ,9.1,,2.2,3.65,0.29,1.12,7.26
 119,Battlefield 3,PS3,2011,Shooter,Electronic Arts  ,Dice  ,8.5,,2.86,2.94,0.35,1.07,7.21
-120,Just Dance,Wii,2009,Misc,Ubisoft  ,Ubisoft Paris  ,5.4,,3.48,2.99,,0.73,7.21
+120,Just Dance,Wii,2009,Music,Ubisoft  ,Ubisoft Paris  ,5.4,,3.48,2.99,,0.73,7.21
 121,Need for Speed Underground,PS2,2003,Racing,Electronic Arts  ,EA Black Box  ,8.6,,3.27,2.83,0.08,1.02,7.2
 122,The Legend of Zelda: Twilight Princess,Wii,2006,Adventure,Nintendo  ,Nintendo EAD  ,9.5,9.6,3.74,2.16,0.6,0.69,7.18
 123,Tekken 3,PS,1998,Fighting,Namco  ,Namco  ,9.6,,3.27,2.22,1.4,0.29,7.16
@@ -218,7 +218,7 @@ Rank,Name,Platform,Year,Genre,Publisher,Developer,Critic_Score,User_Score,NA_Sal
 217,Battlefield 1,XOne,2016,Shooter,Electronic Arts  ,EA DICE  ,9.3,,3.37,1.26,0.02,0.48,5.13
 218,Kirby's Dream Land,GB,1992,Platform,Nintendo  ,HAL Laboratory  ,,,2.71,0.61,1.7,0.11,5.13
 219,Microsoft Flight Simulator,PC,1996,Simulation,Microsoft  ,Microsoft  ,7.0,,3.22,1.69,,0.2,5.12
-220,Guitar Hero II,PS2,2006,Misc,RedOctane  ,Harmonix Music Systems  ,9.2,,3.81,0.63,,0.68,5.12
+220,Guitar Hero II,PS2,2006,Music,RedOctane  ,Harmonix Music Systems  ,9.2,,3.81,0.63,,0.68,5.12
 221,FIFA 13,X360,2012,Sports,EA Sports  ,EA Canada  ,,,1.1,3.49,0.03,0.5,5.11
 222,Resident Evil 5,PS3,2009,Action,Capcom  ,Capcom  ,8.6,8.8,1.96,1.42,1.08,0.64,5.1
 223,Fable III,X360,2010,Role-Playing,Microsoft Game Studios  ,Lionhead Studios  ,7.8,,3.59,1.09,0.05,0.37,5.1
@@ -235,7 +235,7 @@ Rank,Name,Platform,Year,Genre,Publisher,Developer,Critic_Score,User_Score,NA_Sal
 234,Super Mario 3D World,WiiU,2013,Platform,Nintendo  ,Nintendo EAD Tokyo  ,9.5,,2.31,1.54,0.79,0.37,5.01
 235,Warzone 2100,PS,1999,Strategy,Eidos Interactive  ,Pumpkin Studios  ,,,2.79,1.89,,0.33,5.01
 236,Spyro the Dragon,PS,1998,Platform,Sony Computer Entertainment  ,Insomniac Games  ,8.7,,3.36,1.36,0.07,0.21,5.0
-237,Guitar Hero III: Legends of Rock,PS2,2007,Misc,RedOctane  ,BudCat Creations  ,8.2,,3.49,0.01,0.01,1.48,4.98
+237,Guitar Hero III: Legends of Rock,PS2,2007,Music,RedOctane  ,BudCat Creations  ,8.2,,3.49,0.01,0.01,1.48,4.98
 238,Link's Crossbow Training,Wii,2007,Shooter,Nintendo  ,Nintendo EAD  ,6.9,,3.05,1.17,0.29,0.46,4.98
 239,Super Mario Party,NS,2018,Party,Nintendo  ,"Nd Cube Co., Ltd.  ",7.3,,2.12,1.64,0.85,0.36,4.97
 240,Uncharted: Drake's Fortune,PS3,2007,Action,Sony Computer Entertainment  ,Naughty Dog  ,8.7,8.6,2.32,1.73,0.12,0.8,4.97
@@ -267,12 +267,12 @@ Rank,Name,Platform,Year,Genre,Publisher,Developer,Critic_Score,User_Score,NA_Sal
 266,The Legend of Zelda: A Link to the Past,SNES,1992,Adventure,Nintendo  ,Nintendo EAD  ,10.0,,2.42,0.91,1.15,0.13,4.61
 267,Forza Motorsport 4,X360,2011,Racing,Microsoft Studios  ,Turn 10 Studio  ,9.1,,2.08,1.98,0.06,0.49,4.6
 268,The Legend of Zelda: The Wind Waker,GC,2003,Adventure,Nintendo  ,Nintendo EAD  ,9.6,,2.6,0.99,0.89,0.13,4.6
-269,Guitar Hero III: Legends of Rock,Wii,2007,Misc,RedOctane  ,Vicarious Visions  ,8.6,,3.04,1.12,0.0,0.44,4.6
+269,Guitar Hero III: Legends of Rock,Wii,2007,Music,RedOctane  ,Vicarious Visions  ,8.6,,3.04,1.12,0.0,0.44,4.6
 270,FIFA 15,PS3,2014,Sports,EA Sports  ,EA Canada  ,6.9,,0.59,3.25,0.04,0.68,4.56
 271,Mario & Sonic at the Olympic Winter Games,Wii,2009,Sports,Sega  ,Sega  ,6.8,,1.87,1.97,0.22,0.48,4.54
 272,Overwatch,PS4,2016,Shooter,Blizzard Entertainment  ,Blizzard Entertainment  ,8.8,,1.84,1.8,0.17,0.73,4.54
 273,Madden NFL 2005,PS2,2004,Sports,EA Sports  ,EA Tiburon  ,9.5,,4.18,0.26,0.01,0.08,4.53
-274,Guitar Hero III: Legends of Rock,X360,2007,Misc,RedOctane  ,Neversoft  ,8.7,,3.19,0.91,0.01,0.42,4.53
+274,Guitar Hero III: Legends of Rock,X360,2007,Music,RedOctane  ,Neversoft  ,8.7,,3.19,0.91,0.01,0.42,4.53
 275,Star Wars Battlefront II (2017),PS4,2017,Shooter,Electronic Arts  ,EA DICE  ,,,1.7,1.99,0.12,0.73,4.53
 276,Pitfall!,2600,1982,Platform,Activision  ,Activision  ,,,4.21,0.24,,0.05,4.5
 277,Madden NFL 07,PS2,2006,Sports,EA Sports  ,EA Tiburon  ,8.5,,3.63,0.24,0.01,0.61,4.49
@@ -387,7 +387,7 @@ Rank,Name,Platform,Year,Genre,Publisher,Developer,Critic_Score,User_Score,NA_Sal
 386,Pro Evolution Soccer 2008,PS2,2008,Sports,Konami  ,Konami  ,8.2,,0.05,0.0,0.64,2.93,3.63
 387,FIFA Soccer 10,PS3,2009,Sports,EA Sports  ,EA Canada  ,9.0,,0.6,2.46,0.05,0.52,3.63
 388,Resident Evil 4,PS2,2005,Action,Capcom  ,Capcom Production Studio 4  ,9.6,9.3,2.08,0.83,0.46,0.25,3.62
-389,Guitar Hero: World Tour,Wii,2008,Misc,Activision  ,Vicarious Visions  ,8.4,,2.32,0.96,,0.34,3.62
+389,Guitar Hero: World Tour,Wii,2008,Music,Activision  ,Vicarious Visions  ,8.4,,2.32,0.96,,0.34,3.62
 390,Gears of War: Ultimate Edition,XOne,2015,Shooter,Microsoft Studios  ,The Coalition  ,,,2.88,0.37,,0.37,3.62
 391,Star Wars Battlefront,PS2,2004,Shooter,LucasArts  ,Pandemic Studios  ,8.1,,1.93,1.22,0.03,0.44,3.61
 392,Doom II,PC,1994,Shooter,GT Interactive  ,id Software  ,9.3,,2.05,1.4,,0.16,3.61
@@ -423,7 +423,7 @@ Rank,Name,Platform,Year,Genre,Publisher,Developer,Critic_Score,User_Score,NA_Sal
 422,Battlefield: Bad Company 2,X360,2010,Shooter,Electronic Arts  ,EA Digital Illusions CE  ,9.0,9.3,2.11,1.01,0.04,0.33,3.48
 423,Borderlands,X360,2009,Shooter,2K Games  ,Gearbox Software  ,8.3,,2.43,0.72,0.03,0.3,3.48
 424,Mario & Sonic at the Olympic Winter Games,DS,2009,Sports,Sega  ,Sega  ,7.6,,1.21,1.63,0.27,0.37,3.47
-425,Guitar Hero: On Tour,DS,2008,Misc,Activision  ,Vicarious Visions  ,7.1,8.1,2.1,1.01,0.01,0.35,3.46
+425,Guitar Hero: On Tour,DS,2008,Music,Activision  ,Vicarious Visions  ,7.1,8.1,2.1,1.01,0.01,0.35,3.46
 426,Clubhouse Games,DS,2006,Misc,Nintendo  ,Agenda  ,8.3,,0.59,1.8,0.73,0.34,3.45
 427,Super Mario Maker,WiiU,2015,Platform,Nintendo  ,Nintendo EAD  ,8.8,,1.27,0.94,1.03,0.21,3.45
 428,Halo: The Master Chief Collection,XOne,2014,Shooter,Microsoft Studios  ,343 Industries  ,8.8,,2.06,1.04,0.03,0.31,3.44
@@ -610,7 +610,7 @@ Rank,Name,Platform,Year,Genre,Publisher,Developer,Critic_Score,User_Score,NA_Sal
 609,The Legend of Zelda: A Link to the Past,GBA,2002,Adventure,Nintendo  ,"Flagship Co., Ltd. / Nintendo EAD  ",9.6,,1.75,0.52,0.33,0.1,2.7
 610,Onimusha: Warlords,PS2,2001,Action,Capcom  ,Flagship  ,8.7,7.3,0.99,0.48,1.09,0.14,2.7
 611,Madden NFL 12,X360,2011,Sports,EA Sports  ,EA Tiburon  ,7.8,,2.43,0.11,,0.16,2.7
-612,Mario Party,N64,1999,Misc,Nintendo  ,Hudson Soft  ,7.6,,1.25,0.53,0.87,0.05,2.7
+612,Mario Party,N64,1999,Party,Nintendo  ,Hudson Soft  ,7.6,,1.25,0.53,0.87,0.05,2.7
 613,Call of Duty 3,X360,2006,Shooter,Activision  ,Treyarch  ,8.0,8.4,1.49,0.92,0.02,0.27,2.7
 614,LEGO Star Wars II: The Original Trilogy,PS2,2006,Action,LucasArts  ,Traveller's Tales  ,8.4,,1.85,0.64,0.01,0.19,2.69
 615,Madden NFL 11,X360,2010,Sports,EA Sports  ,EA Tiburon  ,8.3,,2.38,0.12,,0.19,2.69
@@ -622,7 +622,7 @@ Rank,Name,Platform,Year,Genre,Publisher,Developer,Critic_Score,User_Score,NA_Sal
 621,Call of Duty 2: Big Red One,PS2,2005,Shooter,Activision  ,Treyarch  ,8.5,,1.48,0.92,0.01,0.26,2.67
 622,Medal of Honor,PS,1999,Shooter,Electronic Arts  ,DreamWorks Interactive  ,9.3,,1.44,1.09,,0.14,2.67
 623,Fable,XB,2004,Role-Playing,Microsoft Game Studios  ,Big Blue Box  ,8.6,,1.99,0.58,,0.09,2.66
-624,Guitar Hero: World Tour,X360,2008,Misc,Activision  ,Neversoft Entertainment  ,8.6,,1.78,0.64,,0.25,2.66
+624,Guitar Hero: World Tour,X360,2008,Music,Activision  ,Neversoft Entertainment  ,8.6,,1.78,0.64,,0.25,2.66
 625,WWE SmackDown! Shut Your Mouth,PS2,2002,Fighting,THQ  ,Yuke's  ,,,1.32,1.29,0.04,,2.66
 626,Final Fantasy XIII-2,PS3,2012,Role-Playing,Square Enix  ,Square Enix  ,8.3,,0.78,0.75,0.89,0.23,2.66
 627,Medal of Honor Heroes,PSP,2006,Shooter,Electronic Arts  ,Team Fusion  ,6.7,,0.86,1.11,0.01,0.67,2.66
@@ -677,7 +677,7 @@ Rank,Name,Platform,Year,Genre,Publisher,Developer,Critic_Score,User_Score,NA_Sal
 676,Deca Sports,Wii,2008,Sports,Hudson Soft  ,CAProduction  ,5.3,,1.11,0.86,0.29,0.25,2.5
 677,Midnight Club: Los Angeles,PS3,2008,Racing,Rockstar Games  ,Rockstar San Diego  ,8.3,,1.59,0.54,0.05,0.33,2.5
 678,PES 2009: Pro Evolution Soccer,PS2,2008,Sports,Konami  ,Konami  ,,,0.13,0.07,0.26,2.05,2.5
-679,Mario Party 2,N64,2000,Misc,Nintendo  ,Hudson Soft  ,,,1.28,0.14,1.08,0.01,2.5
+679,Mario Party 2,N64,2000,Party,Nintendo  ,Hudson Soft  ,,,1.28,0.14,1.08,0.01,2.5
 680,The Legend of Zelda: Majora's Mask 3D,3DS,2015,Action-Adventure,Nintendo  ,GREZZO  ,9.0,,1.2,0.64,0.48,0.18,2.5
 681,Marvel: Ultimate Alliance,X360,2006,Role-Playing,Activision  ,Raven Software  ,8.3,,2.29,0.02,,0.19,2.5
 682,Rockstar Games Double Pack: Grand Theft Auto III & Grand Theft Auto Vice City,XB,2003,Action,Rockstar Games  ,Rockstar North  ,9.8,,1.84,0.56,,0.09,2.49
@@ -688,8 +688,8 @@ Rank,Name,Platform,Year,Genre,Publisher,Developer,Critic_Score,User_Score,NA_Sal
 687,Tomb Raider: The Last Revelation,PS,1999,Action,Eidos Interactive  ,Core Design Ltd.  ,,,1.15,1.14,0.06,0.13,2.48
 688,Assassin's Creed Origins,XOne,2017,Action,Ubisoft  ,Ubisoft Montreal  ,,,1.34,0.92,,0.22,2.47
 689,Pure,X360,2008,Racing,Disney Interactive Studios  ,Black Rock Studio  ,8.3,,1.38,0.84,0.0,0.25,2.47
-690,Mario Party 4,GC,2002,Misc,Nintendo  ,Hudson Soft  ,7.0,,1.13,0.36,0.92,0.07,2.47
-691,Rock Band,X360,2007,Misc,MTV Games  ,Harmonix Music Systems  ,9.1,,1.93,0.33,,0.21,2.47
+690,Mario Party 4,GC,2002,Party,Nintendo  ,Hudson Soft  ,7.0,,1.13,0.36,0.92,0.07,2.47
+691,Rock Band,X360,2007,Music,MTV Games  ,Harmonix Music Systems  ,9.1,,1.93,0.33,,0.21,2.47
 692,Minecraft,PSV,2014,Misc,Sony Computer Entertainment America  ,4J Studios  ,,,0.22,0.73,1.25,0.27,2.47
 693,Resistance 2,PS3,2008,Shooter,Sony Computer Entertainment  ,Insomniac Games  ,8.5,8.7,1.15,0.84,0.1,0.38,2.47
 694,Madden NFL 16,XOne,2015,Sports,EA Sports  ,EA Tiburon  ,8.4,,2.13,0.08,,0.26,2.47
@@ -732,7 +732,7 @@ Rank,Name,Platform,Year,Genre,Publisher,Developer,Critic_Score,User_Score,NA_Sal
 731,Zumba Fitness,X360,2010,Sports,Majesco  ,"Pipeworks Software, Inc.  ",,,1.74,0.45,,0.2,2.39
 732,Monopoly,PC,1995,Misc,Hasbro Interactive  ,Unknown  ,,,1.49,0.81,,0.1,2.39
 733,Mortal Kombat II (US & Others sales),GEN,1994,Fighting,Acclaim Entertainment  ,Probe Entertainment Limited  ,,,1.78,0.53,,0.08,2.39
-734,Guitar Hero,PS2,2005,Misc,RedOctane  ,Harmonix Music Systems  ,8.0,,1.67,0.61,0.03,0.07,2.38
+734,Guitar Hero,PS2,2005,Music,RedOctane  ,Harmonix Music Systems  ,8.0,,1.67,0.61,0.03,0.07,2.38
 735,Dead Island,X360,2011,Action,Deep Silver  ,Techland  ,7.0,,1.48,0.7,,0.21,2.38
 736,WCW/nWo Revenge,N64,1998,Fighting,THQ  ,Aki Corp.  ,,,1.94,0.39,0.03,0.02,2.38
 737,Ratchet & Clank (2016),PS4,2016,Platform,Sony Interactive Entertainment  ,Insomniac Games  ,,,0.97,0.97,0.06,0.39,2.38
@@ -786,8 +786,8 @@ Rank,Name,Platform,Year,Genre,Publisher,Developer,Critic_Score,User_Score,NA_Sal
 785,Onimusha 2: Samurai's Destiny,PS2,2002,Adventure,Capcom  ,Capcom  ,8.5,,0.62,0.44,1.06,0.13,2.25
 786,Cool Boarders 2,PS,1997,Sports,Sony Computer Entertainment  ,UEP Systems  ,,,1.52,0.46,0.2,0.08,2.25
 787,Paper Mario: The Thousand-Year Door,GC,2004,Role-Playing,Nintendo  ,Intelligent Systems  ,9.0,,1.48,0.25,0.46,0.06,2.25
-788,Guitar Hero III: Legends of Rock,PS3,2007,Misc,RedOctane  ,Neversoft  ,8.2,8.0,1.4,0.53,0.02,0.3,2.25
-789,Just Dance Kids,Wii,2010,Misc,Ubisoft  ,Ubisoft Paris  ,,,1.52,0.54,,0.19,2.25
+788,Guitar Hero III: Legends of Rock,PS3,2007,Music,RedOctane  ,Neversoft  ,8.2,8.0,1.4,0.53,0.02,0.3,2.25
+789,Just Dance Kids,Wii,2010,Music,Ubisoft  ,Ubisoft Paris  ,,,1.52,0.54,,0.19,2.25
 790,Madden NFL 15,PS4,2014,Sports,EA Sports  ,EA Tiburon  ,,,1.58,0.25,,0.41,2.25
 791,Dissidia: Final Fantasy,PSP,2009,Fighting,Square Enix  ,Square Enix  ,8.1,10.0,0.51,0.51,0.91,0.31,2.24
 792,Call of Duty 3,Wii,2006,Shooter,Activision  ,EXAKT Entertainment  ,6.8,7.3,1.17,0.84,,0.23,2.24
@@ -795,7 +795,7 @@ Rank,Name,Platform,Year,Genre,Publisher,Developer,Critic_Score,User_Score,NA_Sal
 794,Sonic Advance,GBA,2002,Platform,Sega  ,Dimps Corporation / Sonic Team  ,,,1.19,0.71,0.22,0.13,2.24
 795,Spyro: Season of Ice,GBA,2001,Platform,Vivendi Games  ,Digital Eclipse  ,,,1.29,0.83,,0.11,2.23
 796,Teenage Mutant Ninja Turtles II: The Arcade Game,NES,1990,Action,Ultra Games  ,Konami  ,,,1.74,0.25,0.21,0.03,2.23
-797,Dance Dance Revolution X2,PS2,2009,Simulation,Konami  ,Konami Computer Entertainment Tokyo  ,,,1.09,0.85,,0.28,2.23
+797,Dance Dance Revolution X2,PS2,2009,Music,Konami  ,Konami Computer Entertainment Tokyo  ,,,1.09,0.85,,0.28,2.23
 798,Monster Hunter Tri,Wii,2010,Role-Playing,Capcom  ,Capcom Production Studio 1  ,8.1,10.0,0.65,0.41,1.05,0.11,2.23
 799,Battlefield V,PS4,2018,Shooter,Electronic Arts  ,EA DICE  ,,,0.8,0.93,0.16,0.34,2.22
 800,Prince of Persia: The Sands of Time,PS2,2003,Adventure,Ubisoft  ,Ubisoft Montreal  ,9.0,9.1,0.88,1.03,,0.31,2.22
@@ -806,12 +806,12 @@ Rank,Name,Platform,Year,Genre,Publisher,Developer,Critic_Score,User_Score,NA_Sal
 805,Classic NES Series: Super Mario Bros.,GBA,2004,Platform,Nintendo  ,Nintendo EAD  ,8.3,,0.61,0.21,1.39,,2.22
 806,NBA 2K14,PS3,2013,Sports,2K Sports  ,Visual Concepts  ,,,1.45,0.34,0.04,0.39,2.22
 807,Madden NFL 19,PS4,2018,Sports,EA Sports  ,EA Tiburon  ,,,1.63,0.18,,0.41,2.21
-808,Guitar Hero II,X360,2007,Misc,RedOctane  ,Harmonix Music Systems  ,9.2,,2.01,0.02,,0.17,2.21
+808,Guitar Hero II,X360,2007,Music,RedOctane  ,Harmonix Music Systems  ,9.2,,2.01,0.02,,0.17,2.21
 809,Devil May Cry 3: Dante's Awakening Special Edition,PS2,2006,Action,Capcom  ,Capcom  ,8.8,8.6,1.06,0.82,0.05,0.28,2.21
 810,LEGO Indiana Jones: The Original Adventures,DS,2008,Adventure,LucasArts  ,Traveller's Tales  ,,,1.4,0.6,,0.21,2.2
 811,Need for Speed: Hot Pursuit,X360,2010,Racing,Electronic Arts  ,Criterion Games  ,8.8,,1.03,0.96,0.0,0.21,2.2
 812,Frogger,2600,1982,Action,Parker Bros.  ,Konami  ,,,2.06,0.12,,0.02,2.2
-813,Rock Band 2,X360,2008,Misc,MTV Games  ,Harmonix Music Systems  ,9.2,,1.78,0.24,,0.18,2.2
+813,Rock Band 2,X360,2008,Music,MTV Games  ,Harmonix Music Systems  ,9.2,,1.78,0.24,,0.18,2.2
 814,R.B.I. Baseball,NES,1988,Sports,Tengen  ,Namco  ,,,0.15,,2.05,,2.2
 815,Wario Land 3,GB,2000,Platform,Nintendo  ,Nintendo R&D1  ,,,1.11,0.51,0.34,0.23,2.2
 816,BioShock 2,X360,2010,Shooter,2K Games  ,2K Marin  ,8.6,,1.45,0.54,0.02,0.2,2.2
@@ -848,7 +848,7 @@ Rank,Name,Platform,Year,Genre,Publisher,Developer,Critic_Score,User_Score,NA_Sal
 847,Super Mario RPG: Legend of the Seven Stars,SNES,1996,Role-Playing,Nintendo  ,SquareSoft  ,,,0.66,,1.45,0.03,2.14
 848,Call of Duty: Roads to Victory,PSP,2007,Shooter,Activision  ,Amaze Entertainment  ,6.1,,0.52,1.03,,0.59,2.14
 849,Demon Attack,2600,1982,Shooter,Imagic  ,Imagic  ,,,1.99,0.12,,0.02,2.13
-850,Dance Dance Revolution Extreme,PS2,2004,Simulation,Konami  ,Konami Computer Entertainment Tokyo  ,,,1.04,0.81,,0.27,2.13
+850,Dance Dance Revolution Extreme,PS2,2004,Music,Konami  ,Konami Computer Entertainment Tokyo  ,,,1.04,0.81,,0.27,2.13
 851,Final Fantasy Tactics Advance,GBA,2003,Action,Nintendo  ,Square Enix  ,,,0.82,0.37,0.89,0.05,2.13
 852,NBA 2K12,PS3,2011,Sports,2K Sports  ,Visual Concepts  ,9.0,,1.62,0.27,0.05,0.18,2.13
 853,Donkey Kong Country Returns 3D,3DS,2013,Platform,Nintendo  ,Monster Games  ,8.6,,0.81,0.75,0.42,0.14,2.13
@@ -880,8 +880,8 @@ Rank,Name,Platform,Year,Genre,Publisher,Developer,Critic_Score,User_Score,NA_Sal
 879,Final Fantasy III,DS,2006,Role-Playing,Square Enix  ,Matrix Software  ,7.4,,0.89,0.04,1.07,0.09,2.08
 880,The Legend of Zelda: The Wind Waker,WiiU,2013,Action-Adventure,Nintendo  ,Nintendo EAD  ,9.3,,1.04,0.73,0.15,0.17,2.08
 881,Sim Theme Park,PC,1999,Strategy,Electronic Arts  ,Bullfrog Productions  ,8.1,,2.04,0.04,,,2.08
-882,Rock Band,Wii,2008,Misc,MTV Games  ,Harmonix Music Systems  ,8.2,,1.33,0.56,,0.2,2.08
-883,Mario Party 5,GC,2003,Misc,Nintendo  ,Hudson Soft  ,5.9,,0.97,0.33,0.73,0.06,2.08
+882,Rock Band,Wii,2008,Music,MTV Games  ,Harmonix Music Systems  ,8.2,,1.33,0.56,,0.2,2.08
+883,Mario Party 5,GC,2003,Party,Nintendo  ,Hudson Soft  ,5.9,,0.97,0.33,0.73,0.06,2.08
 884,Portal 2,X360,2011,Shooter,Valve  ,Valve Software  ,9.6,,1.41,0.49,0.01,0.17,2.08
 885,Warcraft: Orcs & Humans,PC,1994,Strategy,Blizzard Entertainment  ,Blizzard Entertainment  ,,,0.89,1.08,,0.11,2.08
 886,Mario Sports Mix,Wii,2011,Sports,Nintendo  ,Square Enix  ,6.0,,0.88,0.45,0.63,0.12,2.08
@@ -890,7 +890,7 @@ Rank,Name,Platform,Year,Genre,Publisher,Developer,Critic_Score,User_Score,NA_Sal
 889,Kingdom Hearts: Birth by Sleep,PSP,2010,Role-Playing,Square Enix  ,Square Enix  ,7.9,,0.63,0.42,0.75,0.27,2.08
 890,R.C. Pro-Am,NES,1988,Racing,Nintendo  ,Rare Ltd.  ,,,1.18,0.52,0.37,,2.07
 891,Spec Ops: Airborne Commando,PS,2002,Shooter,Gotham Games  ,Big Grub  ,,,1.54,0.46,,0.08,2.07
-892,Dance Dance Revolution: Hottest Party,Wii,2007,Simulation,Konami  ,Bemani  ,,,1.35,0.53,,0.19,2.07
+892,Dance Dance Revolution: Hottest Party,Wii,2007,Music,Konami  ,Bemani  ,,,1.35,0.53,,0.19,2.07
 893,The Sims 2: Pets,DS,2006,Simulation,Electronic Arts  ,Maxis  ,4.8,,0.92,0.93,,0.22,2.07
 894,Rise of the Tomb Raider,PS4,2016,Adventure,Square Enix  ,Crystal Dynamics  ,,,0.61,1.08,0.05,0.32,2.07
 895,UFC 2009 Undisputed,X360,2009,Fighting,THQ  ,Yuke's Osaka  ,8.4,,1.48,0.39,0.0,0.19,2.07
@@ -930,13 +930,13 @@ Rank,Name,Platform,Year,Genre,Publisher,Developer,Critic_Score,User_Score,NA_Sal
 929,Pokémon Mystery Dungeon: Blue Rescue Team,DS,2006,Role-Playing,Nintendo  ,ChunSoft  ,6.3,,1.15,0.05,0.83,,2.03
 930,NBA Live 2004,PS2,2003,Sports,EA Sports  ,EA Canada  ,,,1.57,0.18,,0.27,2.03
 931,The Sims 3,PS3,2010,Simulation,Electronic Arts  ,The Sims Studio  ,8.1,,0.73,0.96,0.02,0.31,2.03
-932,Just Dance 3,X360,2011,Misc,Ubisoft  ,Ubisoft Paris  ,5.5,,1.47,0.39,,0.16,2.02
+932,Just Dance 3,X360,2011,Music,Ubisoft  ,Ubisoft Paris  ,5.5,,1.47,0.39,,0.16,2.02
 933,Forza Motorsport 6,XOne,2015,Racing,Microsoft Studios  ,Turn 10 Studios  ,,,0.9,0.92,0.04,0.16,2.02
 934,Rocket League,PS4,2016,Sports,505 Games  ,Psyonix Studios  ,8.7,,0.37,1.34,,0.31,2.02
 935,NBA 2K18,XOne,2017,Sports,2K Sports  ,Visual Concepts  ,7.7,,1.67,0.14,,0.21,2.02
 936,Call of Duty: Black Ops 3,X360,2015,Shooter,Activision  ,Treyarch  ,,,1.36,0.47,,0.19,2.01
 937,Need for Speed: The Run,PS3,2011,Racing,Electronic Arts  ,EA Black Box  ,6.3,,0.58,1.05,0.03,0.35,2.01
-938,Mario Party 10,WiiU,2015,Misc,Nintendo  ,"Nd Cube Co., Ltd.  ",6.3,,0.82,0.75,0.29,0.14,2.0
+938,Mario Party 10,WiiU,2015,Party,Nintendo  ,"Nd Cube Co., Ltd.  ",6.3,,0.82,0.75,0.29,0.14,2.0
 939,Dead Space,PS3,2008,Shooter,Electronic Arts  ,EA Redwood Shores  ,8.9,,1.05,0.66,,0.29,2.0
 940,Super Street Fighter II,SNES,1994,Fighting,Capcom  ,Capcom  ,,,0.52,0.16,1.29,0.03,2.0
 941,The Legend of Zelda: Ocarina of Time 3D,3DS,2011,Adventure,Nintendo  ,GREZZO  ,9.3,,1.42,0.01,0.56,,2.0
@@ -986,7 +986,7 @@ Rank,Name,Platform,Year,Genre,Publisher,Developer,Critic_Score,User_Score,NA_Sal
 985,Virtua Fighter 2,SAT,1996,Fighting,Sega  ,Sega-AM2  ,,,0.34,0.26,1.3,0.03,1.93
 986,Tetris DX,GBC,1998,Puzzle,Nintendo  ,Nintendo R&D1  ,,,1.06,0.6,0.2,0.07,1.93
 987,The Legend of Zelda: Oracle of Ages,GBC,2001,Adventure,Nintendo  ,Flagship  ,9.4,,0.92,0.53,0.41,0.06,1.92
-988,Guitar Hero: World Tour,PS3,2008,Misc,Activision  ,Neversoft Entertainment  ,8.5,,1.1,0.55,,0.27,1.92
+988,Guitar Hero: World Tour,PS3,2008,Music,Activision  ,Neversoft Entertainment  ,8.5,,1.1,0.55,,0.27,1.92
 989,Red Faction,PS2,2001,Shooter,THQ  ,Volition Inc.  ,9.1,,0.76,0.96,,0.2,1.92
 990,The Sims: Makin' Magic,PC,2003,Simulation,Electronic Arts  ,Maxis  ,,,1.03,0.8,,0.09,1.92
 991,MX Unleashed,PS2,2004,Racing,THQ  ,Rainbow Studios  ,,,0.94,0.73,,0.25,1.92
@@ -994,7 +994,7 @@ Rank,Name,Platform,Year,Genre,Publisher,Developer,Critic_Score,User_Score,NA_Sal
 993,Star Wars Battlefront II (2017),XOne,2017,Shooter,Electronic Arts  ,EA DICE  ,,,1.15,0.59,,0.17,1.92
 994,Need for Speed: Shift,X360,2009,Racing,Electronic Arts  ,Slightly Mad Studios  ,8.2,,0.73,0.96,0.01,0.22,1.91
 995,Lego Marvel Super Heroes,PS4,2013,Action,Warner Bros. Interactive Entertainment  ,Traveller's Tales  ,,,0.59,1.0,0.01,0.3,1.91
-996,Mario Party 3,N64,2001,Misc,Nintendo  ,Hudson Soft  ,7.0,,0.72,0.16,1.01,0.02,1.91
+996,Mario Party 3,N64,2001,Party,Nintendo  ,Hudson Soft  ,7.0,,0.72,0.16,1.01,0.02,1.91
 997,Madden NFL 18,XOne,2017,Sports,EA Sports  ,EA Tiburon  ,8.8,,1.63,0.07,,0.2,1.91
 998,Star Wars Rogue Leader: Rogue Squadron II,GC,2001,Simulation,LucasArts  ,Factor 5  ,9.2,,1.03,0.75,0.03,0.09,1.9
 999,Tomb Raider (2013),X360,2013,Action,Square Enix  ,Crystal Dynamics  ,8.5,,0.86,0.87,0.01,0.16,1.9
@@ -1002,7 +1002,7 @@ Rank,Name,Platform,Year,Genre,Publisher,Developer,Critic_Score,User_Score,NA_Sal
 1001,Until Dawn,PS4,2015,Adventure,Sony Computer Entertainment  ,Supermassive Games Ltd.  ,,,0.62,0.92,0.06,0.3,1.9
 1002,Mario Super Sluggers,Wii,2008,Sports,Nintendo  ,Bandai Namco Games / NOW Production  ,6.7,,1.48,,0.29,0.13,1.89
 1003,Monopoly,Wii,2008,Misc,Electronic Arts  ,EA Bright Light  ,,,0.86,0.83,0.0,0.2,1.89
-1004,Minecraft,NS,2018,Sandbox,Mojang  ,4J Studios  ,9.2,,0.69,0.56,0.52,0.12,1.89
+1004,Minecraft,NS,2018,Misc,Mojang  ,4J Studios  ,9.2,,0.69,0.56,0.52,0.12,1.89
 1005,Ratchet & Clank Future: A Crack in Time,PS3,2009,Platform,Sony Computer Entertainment  ,Insomniac Games  ,8.7,9.0,1.05,0.55,0.03,0.26,1.89
 1006,Madden NFL 09,PS3,2008,Sports,EA Sports  ,EA Tiburon  ,8.6,,1.56,0.15,0.0,0.18,1.89
 1007,Toy Story Mania!,Wii,2009,Misc,Disney Interactive Studios  ,Papaya Studios  ,,,1.04,0.66,,0.19,1.89
@@ -1028,7 +1028,7 @@ Rank,Name,Platform,Year,Genre,Publisher,Developer,Critic_Score,User_Score,NA_Sal
 1027,The Legend of Dragoon,PS,2000,Role-Playing,Sony Computer Entertainment  ,SCEI  ,7.8,6.5,0.94,0.44,0.39,0.1,1.86
 1028,Turok 2: Seeds of Evil,N64,1998,Shooter,Acclaim Entertainment  ,Iguana Entertainment  ,9.0,,1.37,0.41,0.04,0.04,1.86
 1029,The Evil Within,PS4,2014,Action,Bethesda Softworks  ,Tango Gameworks  ,7.7,,0.56,0.9,0.11,0.28,1.86
-1030,SingStar,PS2,2004,Misc,Sony Computer Entertainment  ,SCEE London Studio  ,8.0,,,1.37,,0.49,1.86
+1030,SingStar,PS2,2004,Music,Sony Computer Entertainment  ,SCEE London Studio  ,8.0,,,1.37,,0.49,1.86
 1031,Max Payne 3,PS3,2012,Shooter,Rockstar Games  ,Rockstar Vancouver  ,,,0.59,0.93,0.06,0.27,1.86
 1032,NBA Live 2002,PS2,2001,Sports,EA Sports  ,EA Canada  ,,,0.91,0.71,,0.24,1.86
 1033,Chrono Cross,PS,2000,Role-Playing,Square EA  ,SquareSoft  ,9.7,9.8,0.62,0.42,0.69,0.12,1.86
@@ -1056,13 +1056,13 @@ Rank,Name,Platform,Year,Genre,Publisher,Developer,Critic_Score,User_Score,NA_Sal
 1055,Namco Museum,PS2,2001,Misc,Namco  ,Mass Media  ,,,1.73,0.07,,0.02,1.82
 1056,The Sims: Hot Date,PC,2001,Simulation,Electronic Arts  ,Maxis  ,,,1.81,0.0,,,1.82
 1057,The Orange Box,X360,2007,Shooter,Electronic Arts  ,Valve Software  ,9.7,,1.09,0.53,0.02,0.17,1.82
-1058,DDRMAX2: Dance Dance Revolution,PS2,2003,Simulation,Konami  ,Konami Computer Entertainment Tokyo  ,,,1.05,0.59,,0.18,1.81
+1058,DDRMAX2: Dance Dance Revolution,PS2,2003,Music,Konami  ,Konami Computer Entertainment Tokyo  ,,,1.05,0.59,,0.18,1.81
 1059,Crazy Taxi,DC,2000,Racing,Sega  ,Hitmaker  ,9.3,,1.1,0.51,0.12,0.08,1.81
 1060,Virtua Fighter 4,PS2,2002,Fighting,Sega  ,Sega-AM2  ,9.3,,0.78,0.44,0.56,0.04,1.81
 1061,World of Warcraft: Mists of Pandaria,PC,2012,MMO,Blizzard Entertainment  ,Blizzard Entertainment  ,,,0.84,0.76,,0.2,1.81
 1062,NBA 2K11,PS3,2010,Sports,2K Sports  ,Visual Concepts  ,,,1.41,0.21,0.03,0.16,1.81
 1063,Sly 2: Band of Thieves,PS2,2004,Platform,Sony Computer Entertainment  ,Sucker Punch  ,,,0.88,0.69,,0.23,1.81
-1064,Guitar Hero: World Tour,PS2,2008,Misc,Activision  ,BudCat Creations  ,,,1.0,0.03,,0.77,1.8
+1064,Guitar Hero: World Tour,PS2,2008,Music,Activision  ,BudCat Creations  ,,,1.0,0.03,,0.77,1.8
 1065,Madden NFL 07,X360,2006,Sports,EA Sports  ,EA Tiburon  ,8.2,,1.66,0.0,0.01,0.13,1.8
 1066,Sonic Advance 2,GBA,2003,Platform,Sega  ,Dimps Corporation / Sonic Team  ,,,0.93,0.59,0.21,0.07,1.8
 1067,NFL GameDay 2000,PS,1999,Sports,989 Studios  ,Red Zone Entertainment  ,,,1.0,0.68,,0.12,1.8
@@ -1106,7 +1106,7 @@ Rank,Name,Platform,Year,Genre,Publisher,Developer,Critic_Score,User_Score,NA_Sal
 1105,For Honor,PS4,2017,Action,Ubisoft  ,Ubisoft Montreal  ,,,0.73,0.66,0.07,0.28,1.75
 1106,FIFA Soccer 08,PS3,2007,Sports,EA Sports  ,EA Canada  ,8.5,,0.35,1.07,0.02,0.31,1.75
 1107,Crackdown,X360,2007,Shooter,Microsoft Game Studios  ,Realtime Worlds  ,8.4,7.0,1.0,0.53,0.03,0.18,1.75
-1108,Dance Dance Revolution X,PS2,2008,Simulation,Konami  ,Konami Computer Entertainment Tokyo  ,,,0.85,0.66,0.01,0.22,1.75
+1108,Dance Dance Revolution X,PS2,2008,Music,Konami  ,Konami Computer Entertainment Tokyo  ,,,0.85,0.66,0.01,0.22,1.75
 1109,2 Games in 1: Disney Princess & The Lion King,GBA,2004,Misc,THQ  ,Various  ,,,1.25,0.46,,0.03,1.75
 1110,Mortal Kombat X,XOne,2015,Fighting,Warner Bros. Interactive Entertainment  ,NetherRealm Studios  ,,,1.34,0.23,,0.18,1.74
 1111,Star Wars Episode I: The Phantom Menace,PS,1999,Adventure,LucasArts  ,Big Ape Productions  ,,,0.72,0.89,0.04,0.1,1.74
@@ -1134,7 +1134,7 @@ Rank,Name,Platform,Year,Genre,Publisher,Developer,Critic_Score,User_Score,NA_Sal
 1133,Deal or No Deal,DS,2007,Misc,"Destination Software, Inc  ",Global Star  ,,,1.16,0.4,,0.16,1.72
 1134,Star Ocean: Till The End of Time,PS2,2004,Role-Playing,Square Enix  ,tri-Ace  ,7.8,,0.8,0.21,0.55,0.15,1.72
 1135,Injustice 2,PS4,2017,Fighting,Warner Bros. Interactive Entertainment  ,NetherRealm Studios  ,,,0.88,0.54,,0.29,1.72
-1136,The Beatles: Rock Band,Wii,2009,Misc,MTV Games  ,Harmonix Music Systems  ,9.0,,1.17,0.39,,0.15,1.71
+1136,The Beatles: Rock Band,Wii,2009,Music,MTV Games  ,Harmonix Music Systems  ,9.0,,1.17,0.39,,0.15,1.71
 1137,Toy Story 2: Buzz Lightyear to the Rescue!,PS,1999,Platform,Activision  ,Traveller's Tales  ,,,0.99,0.64,,0.08,1.71
 1138,Imagine: Teacher,DS,2008,Simulation,Ubisoft  ,Magic Pockets  ,,,0.7,0.83,,0.19,1.71
 1139,Donkey Kong Country: Tropical Freeze,WiiU,2014,Platform,Nintendo  ,Retro Studios  ,8.8,9.1,0.74,0.68,0.16,0.13,1.71
@@ -1209,7 +1209,7 @@ Rank,Name,Platform,Year,Genre,Publisher,Developer,Critic_Score,User_Score,NA_Sal
 1208,Yoshi's New Island,3DS,2014,Platform,Nintendo  ,Arzest  ,,,0.51,0.74,0.29,0.11,1.66
 1209,Ms. Pac-Man,2600,1982,Puzzle,Atari  ,General Entertainment  ,,,1.54,0.1,,0.02,1.65
 1210,Star Wars The Clone Wars: Lightsaber Duels,Wii,2008,Action,LucasArts  ,Krome Studios  ,,,1.21,0.3,,0.14,1.65
-1211,Mario Party 6,GC,2004,Misc,Nintendo  ,Hudson Soft  ,7.2,,0.9,0.11,0.6,0.05,1.65
+1211,Mario Party 6,GC,2004,Party,Nintendo  ,Hudson Soft  ,7.2,,0.9,0.11,0.6,0.05,1.65
 1212,Super Scope 6,SNES,1992,Shooter,Nintendo  ,Nintendo R&D1  ,,,1.06,0.38,0.15,0.05,1.65
 1213,Heavenly Sword,PS3,2007,Action,Sony Computer Entertainment  ,Ninja Theory  ,8.0,,0.57,0.73,0.06,0.29,1.65
 1214,MySims,Wii,2007,Simulation,Electronic Arts  ,EA Redwood Shores  ,7.1,,0.9,0.54,0.04,0.17,1.65
@@ -1239,7 +1239,7 @@ Rank,Name,Platform,Year,Genre,Publisher,Developer,Critic_Score,User_Score,NA_Sal
 1238,Call of Duty: Black Ops,PC,2010,Shooter,Activision  ,Treyarch  ,8.5,,0.58,0.82,,0.23,1.62
 1239,The Order: 1886,PS4,2015,Shooter,Sony Computer Entertainment  ,Ready at Dawn  ,6.2,,0.44,0.86,0.07,0.25,1.62
 1240,Kirby Air Ride,GC,2003,Racing,Nintendo  ,HAL Laboratory  ,6.4,,1.01,0.11,0.45,0.04,1.62
-1241,Rock Band,PS3,2007,Misc,MTV Games  ,Harmonix Music Systems  ,9.1,,0.99,0.41,,0.22,1.62
+1241,Rock Band,PS3,2007,Music,MTV Games  ,Harmonix Music Systems  ,9.1,,0.99,0.41,,0.22,1.62
 1242,Sled Storm,PS,1999,Racing,Electronic Arts  ,EA Canada  ,,,0.9,0.61,,0.11,1.62
 1243,Dragon Quest IV: Chapters of the Chosen,DS,2008,Role-Playing,Square Enix  ,ArtePiazza  ,8.1,8.0,0.3,0.02,1.27,0.03,1.62
 1244,NFL Street 2,PS2,2004,Sports,EA Sports BIG   ,EA Tiburon  ,,,0.79,0.62,,0.21,1.61
@@ -1274,7 +1274,7 @@ Rank,Name,Platform,Year,Genre,Publisher,Developer,Critic_Score,User_Score,NA_Sal
 1273,Pro Evolution Soccer 2008,PS3,2008,Sports,Konami  ,Konami  ,7.1,,0.04,1.1,0.32,0.13,1.59
 1274,FIFA 16,X360,2015,Sports,EA Sports  ,EA Canada  ,9.0,,0.59,0.88,,0.12,1.59
 1275,NASCAR 2000,PS,1999,Racing,EA Sports  ,Stormfront Studios  ,,,0.88,0.6,,0.1,1.59
-1276,Dance Dance Revolution: Hottest Party 2,Wii,2008,Simulation,Konami  ,Bemani  ,,,0.94,0.48,0.01,0.15,1.58
+1276,Dance Dance Revolution: Hottest Party 2,Wii,2008,Music,Konami  ,Bemani  ,,,0.94,0.48,0.01,0.15,1.58
 1277,Final Fantasy XIV Online,PC,2010,MMO,Square Enix  ,Square Enix  ,5.3,,0.93,0.48,,0.16,1.58
 1278,SoulCalibur IV,X360,2008,Fighting,Namco Bandai  ,Project Soul  ,8.3,,0.92,0.43,0.07,0.15,1.58
 1279,Jampack Summer 2K,PS,2000,Misc,Sony Computer Entertainment  ,Sony Computer Entertainment America  ,,,0.88,0.6,,0.1,1.58
@@ -1286,11 +1286,11 @@ Rank,Name,Platform,Year,Genre,Publisher,Developer,Critic_Score,User_Score,NA_Sal
 1285,LEGO Pirates of the Caribbean: The Video Game,Wii,2011,Action,Disney Interactive Studios  ,Traveller's Tales  ,7.5,,0.73,0.69,,0.15,1.57
 1286,Pro Evolution Soccer 2010,PS2,2009,Sports,Konami  ,Konami  ,7.2,,0.1,0.18,0.12,1.16,1.57
 1287,NCAA Football 2002,PS2,2001,Sports,EA Sports  ,EA Tiburon  ,,,0.77,0.6,,0.2,1.57
-1288,Guitar Hero: On Tour Decades,DS,2008,Misc,Activision  ,Vicarious Visions  ,,,0.84,0.57,,0.16,1.57
+1288,Guitar Hero: On Tour Decades,DS,2008,Music,Activision  ,Vicarious Visions  ,,,0.84,0.57,,0.16,1.57
 1289,Moshi Monsters: Moshling Zoo,DS,2011,Misc,Activision  ,Mind Candy  ,,,0.38,0.98,,0.21,1.57
 1290,Dragon Quest V: Hand of the Heavenly Bride,DS,2009,Role-Playing,Square Enix  ,ArtePiazza  ,8.6,,0.17,0.02,1.36,0.02,1.57
 1291,Conflict: Desert Storm,PS2,2002,Shooter,Gotham Games  ,Pivotal Games  ,,,0.98,0.53,,0.06,1.57
-1292,Mario Party 7,GC,2005,Misc,Nintendo  ,Hudson Soft  ,6.0,,0.95,0.11,0.46,0.04,1.57
+1292,Mario Party 7,GC,2005,Party,Nintendo  ,Hudson Soft  ,6.0,,0.95,0.11,0.46,0.04,1.57
 1293,High School Musical 3: Senior Year,DS,2008,Misc,Disney Interactive Studios  ,Griptonite Games  ,,,0.63,0.76,,0.18,1.57
 1294,Carnival Games: Mini Golf,Wii,2008,Sports,2K Play  ,Cat Daddy Games  ,,,0.86,0.55,,0.15,1.56
 1295,Smuggler's Run,PS2,2000,Racing,Rockstar Games  ,Rockstar San Diego  ,,,0.77,0.6,,0.2,1.56
@@ -1309,7 +1309,7 @@ Rank,Name,Platform,Year,Genre,Publisher,Developer,Critic_Score,User_Score,NA_Sal
 1308,Tom Clancy's Rainbow Six 3,XB,2003,Shooter,Ubisoft  ,Ubisoft Montreal / Red Storm Entertainment  ,,,0.91,0.57,,0.07,1.55
 1309,BioShock 2,PS3,2010,Shooter,2K Games  ,2K Marin  ,8.5,,0.85,0.46,0.02,0.22,1.55
 1310,Dishonored,PS3,2013,Shooter,Bethesda Softworks  ,Arkane Studios  ,,,0.72,0.54,0.04,0.26,1.55
-1311,Guitar Hero 5,Wii,2009,Misc,Activision  ,Vicarious Visions  ,8.9,,0.92,0.48,,0.15,1.55
+1311,Guitar Hero 5,Wii,2009,Music,Activision  ,Vicarious Visions  ,8.9,,0.92,0.48,,0.15,1.55
 1312,007: The World is Not Enough,N64,2000,Shooter,Electronic Arts  ,Eurocom Entertainment Software  ,7.4,,1.13,0.38,0.02,0.03,1.55
 1313,Spider-Man 2: Enter: Electro,PS,2001,Action,Activision  ,Vicarious Visions  ,,,0.57,0.87,0.02,0.09,1.55
 1314,Battlefield V,XOne,2018,Shooter,Electronic Arts  ,EA DICE  ,,,1.05,0.35,,0.15,1.55
@@ -1375,7 +1375,7 @@ Rank,Name,Platform,Year,Genre,Publisher,Developer,Critic_Score,User_Score,NA_Sal
 1374,Ninja Hattori Kun: Ninja wa Shuugyou Degogiru no Maki,NES,1986,Platform,Hudson Soft  ,Hudson Soft  ,,,,,1.5,0.0,1.5
 1375,Sonic CD,SCD,1993,Platform,Sega  ,Sonic Team  ,,,1.0,0.36,0.09,0.05,1.5
 1376,WWF No Mercy,N64,2000,Fighting,THQ  ,Aki Corp.  ,9.1,,1.2,0.27,0.02,0.02,1.5
-1377,Rock Band 2,PS3,2008,Misc,MTV Games  ,Harmonix Music Systems  ,8.9,,1.13,0.2,,0.16,1.5
+1377,Rock Band 2,PS3,2008,Music,MTV Games  ,Harmonix Music Systems  ,8.9,,1.13,0.2,,0.16,1.5
 1378,Football Manager 2012,PC,2011,Sports,Sega  ,Sega  ,8.5,,0.02,1.16,,0.32,1.5
 1379,Pac-Man World,PS,1999,Action,Namco  ,Namco  ,,,1.21,0.14,0.1,0.04,1.5
 1380,Mass Effect: Andromeda,PS4,2017,Role-Playing,Electronic Arts  ,BioWare Corp.  ,,,0.58,0.67,,0.25,1.49
@@ -1447,7 +1447,7 @@ Rank,Name,Platform,Year,Genre,Publisher,Developer,Critic_Score,User_Score,NA_Sal
 1446,The House of the Dead 2 & 3 Return,Wii,2008,Shooter,Sega  ,Sega  ,6.5,7.0,0.77,0.5,0.03,0.15,1.45
 1447,Assassin's Creed Syndicate,XOne,2015,Action,Ubisoft  ,Ubisoft Quebec  ,,,0.71,0.61,,0.12,1.44
 1448,BioShock,PS3,2008,Shooter,2K Games  ,2K Boston / 2K Australia / 2K Marin  ,9.3,9.6,0.75,0.48,0.01,0.21,1.44
-1449,SingStar Pop,PS2,2007,Misc,Sony Computer Entertainment  ,SCEE London Studio  ,,,0.04,1.08,,0.32,1.44
+1449,SingStar Pop,PS2,2007,Music,Sony Computer Entertainment  ,SCEE London Studio  ,,,0.04,1.08,,0.32,1.44
 1450,Kirby Super Star,SNES,1996,Platform,Nintendo  ,HAL Laboratory  ,,,0.26,0.07,1.09,0.02,1.44
 1451,My Word Coach,DS,2007,Misc,Ubisoft  ,Ubisoft Montreal  ,,,0.37,0.9,,0.18,1.44
 1452,Star Wars: The Force Unleashed II,X360,2010,Action,LucasArts  ,LucasArts  ,6.3,,0.95,0.37,,0.12,1.44
@@ -1549,7 +1549,7 @@ Rank,Name,Platform,Year,Genre,Publisher,Developer,Critic_Score,User_Score,NA_Sal
 1548,Tom Clancy's Ghost Recon 2,XB,2004,Shooter,Ubisoft  ,Red Storm Entertainment  ,,,0.86,0.45,,0.06,1.36
 1549,Crash Bandicoot 2: N-Tranced,GBA,2003,Platform,Vivendi Games  ,Vicarious Visions  ,7.5,,0.63,0.66,,0.07,1.36
 1550,Wolfenstein II: The New Colossus,PS4,2017,Shooter,Bethesda Softworks  ,MachineGames  ,9.0,,0.55,0.58,0.01,0.22,1.36
-1551,SingStar Abba,PS2,2008,Misc,Sony Computer Entertainment  ,SCEE London Studio  ,,,0.23,0.04,,1.09,1.36
+1551,SingStar Abba,PS2,2008,Music,Sony Computer Entertainment  ,SCEE London Studio  ,,,0.23,0.04,,1.09,1.36
 1552,Dragon Quest III: Soshite Densetsu e...,SNES,1996,Role-Playing,Enix  ,Heart Beat  ,,,,,1.36,0.0,1.36
 1553,Gradius,NES,1986,Shooter,Konami  ,Konami  ,,,0.27,0.08,1.0,0.01,1.36
 1554,Centipede,2600,1982,Shooter,Atari  ,Atari  ,,,1.26,0.08,,0.01,1.36
@@ -1562,7 +1562,7 @@ Rank,Name,Platform,Year,Genre,Publisher,Developer,Critic_Score,User_Score,NA_Sal
 1561,Hasbro Family Game Night 2,Wii,2009,Misc,Electronic Arts  ,EA Bright Light  ,6.4,,0.7,0.52,,0.13,1.36
 1562,MotorStorm: Pacific Rift,PS3,2008,Racing,Sony Computer Entertainment  ,Evolution Studios  ,8.0,8.7,0.43,0.66,0.02,0.25,1.36
 1563,WWE '13,PS3,2012,Sports,THQ  ,Unknown  ,,,0.51,0.62,,0.22,1.35
-1564,Dance Dance Revolution (Japan),PS,1999,Simulation,Konami  ,Konami Computer Entertainment Tokyo  ,,,,,1.26,0.09,1.35
+1564,Dance Dance Revolution (Japan),PS,1999,Music,Konami  ,Konami Computer Entertainment Tokyo  ,,,,,1.26,0.09,1.35
 1565,Madden NFL 98,PS,1997,Sports,EA Sports  ,EA Tiburon  ,,,1.29,0.03,,0.03,1.35
 1566,Burnout Paradise,X360,2008,Racing,Electronic Arts  ,Criterion  ,8.9,,0.63,0.57,0.01,0.14,1.35
 1567,Disney Princess: Enchanted Journey,Wii,2007,Adventure,Disney Interactive Studios  ,Papaya Studios  ,,,1.22,0.03,,0.1,1.35
@@ -1572,7 +1572,7 @@ Rank,Name,Platform,Year,Genre,Publisher,Developer,Critic_Score,User_Score,NA_Sal
 1571,FIFA Soccer 09,PSP,2008,Sports,EA Sports  ,EA Canada  ,8.1,,0.23,0.73,0.02,0.37,1.35
 1572,SaGa Frontier,PS,1998,Role-Playing,Sony Computer Entertainment  ,SquareSoft  ,8.0,,0.15,0.04,1.07,0.09,1.35
 1573,Watch Dogs 2,XOne,2016,Action,Ubisoft  ,Ubisoft  ,,,0.71,0.53,,0.12,1.35
-1574,SingStar Party,PS2,2004,Misc,Sony Computer Entertainment  ,SCEE London Studio  ,,,,1.04,,0.31,1.35
+1574,SingStar Party,PS2,2004,Music,Sony Computer Entertainment  ,SCEE London Studio  ,,,,1.04,,0.31,1.35
 1575,FIFA Soccer 08,X360,2007,Sports,EA Sports  ,EA Canada  ,,,0.31,0.89,0.01,0.14,1.35
 1576,Monster Hunter Freedom,PSP,2006,Role-Playing,Capcom  ,Capcom  ,7.0,,0.24,0.04,1.03,0.04,1.34
 1577,Test Drive,PS2,2002,Racing,Atari  ,Pitbull Syndicate  ,,,0.95,0.21,0.01,0.18,1.34
@@ -1636,7 +1636,7 @@ Rank,Name,Platform,Year,Genre,Publisher,Developer,Critic_Score,User_Score,NA_Sal
 1635,Pitfall II: Lost Caverns,2600,1983,Platform,Activision  ,Activision  ,,,1.22,0.07,,0.02,1.31
 1636,[Prototype],X360,2009,Action,Activision  ,Radical Entertainment  ,7.9,,0.84,0.35,,0.12,1.31
 1637,Turok: Evolution,PS2,2002,Shooter,Acclaim Entertainment  ,Acclaim Studios Austin  ,,,0.64,0.5,,0.17,1.31
-1638,The Beatles: Rock Band,X360,2009,Misc,MTV Games  ,Harmonix Music Systems  ,8.9,,0.97,0.23,,0.11,1.31
+1638,The Beatles: Rock Band,X360,2009,Music,MTV Games  ,Harmonix Music Systems  ,8.9,,0.97,0.23,,0.11,1.31
 1639,EA Sports UFC 2,PS4,2016,Sports,EA Sports  ,EA Canada  ,,,0.44,0.65,,0.21,1.31
 1640,Burnout 3: Takedown,XB,2004,Racing,Electronic Arts  ,Criterion Games  ,9.3,,0.84,0.43,,0.04,1.31
 1641,Adventure,2600,1978,Adventure,Atari  ,Atari  ,,,1.21,0.08,,0.01,1.3
@@ -1644,7 +1644,7 @@ Rank,Name,Platform,Year,Genre,Publisher,Developer,Critic_Score,User_Score,NA_Sal
 1643,NBA Live 07,PS2,2006,Sports,EA Sports  ,EA Canada  ,6.3,,1.07,0.04,0.02,0.17,1.3
 1644,Final Fantasy X / X-2 HD Remaster,PS3,2014,Role-Playing,Square Enix  ,Square Enix  ,8.5,,0.43,0.39,0.32,0.16,1.3
 1645,Tekken 6,X360,2009,Fighting,Namco Bandai  ,Namco Bandai Games  ,7.8,,0.71,0.41,0.05,0.13,1.3
-1646,SingStar '80s,PS2,2007,Misc,Sony Computer Entertainment  ,SCEE London Studio  ,,,0.27,0.02,,1.02,1.3
+1646,SingStar '80s,PS2,2007,Music,Sony Computer Entertainment  ,SCEE London Studio  ,,,0.27,0.02,,1.02,1.3
 1647,Pokémon Ranger: Guardian Signs,DS,2010,Role-Playing,Nintendo  ,Creatures Inc.  ,6.5,,0.5,0.17,0.58,0.05,1.3
 1648,LEGO Batman: The Videogame,PSP,2008,Adventure,Warner Bros. Interactive  ,Traveller's Tales  ,7.9,,0.57,0.46,,0.27,1.3
 1649,Romancing SaGa 3,SNES,1995,Role-Playing,Square  ,SquareSoft  ,,,,,1.29,0.01,1.3
@@ -1679,7 +1679,7 @@ Rank,Name,Platform,Year,Genre,Publisher,Developer,Critic_Score,User_Score,NA_Sal
 1678,Twisted Metal 4,PS,1999,Racing,989 Studios  ,989 Studios  ,6.7,,1.07,0.16,,0.04,1.28
 1679,Manhunt,PS2,2003,Action,Rockstar Games  ,Rockstar North  ,8.0,,0.63,0.49,,0.16,1.28
 1680,Silent Hill 2,PS2,2001,Action,Konami  ,KCET  ,,,0.62,0.49,,0.16,1.28
-1681,Guitar Hero: Aerosmith,Wii,2008,Misc,Activision  ,Vicarious Visions  ,,,1.03,0.14,,0.1,1.27
+1681,Guitar Hero: Aerosmith,Wii,2008,Music,Activision  ,Vicarious Visions  ,,,1.03,0.14,,0.1,1.27
 1682,The Sims 2: Nightlife,PC,2005,Simulation,Electronic Arts  ,Maxis  ,7.5,,1.22,0.05,,,1.27
 1683,Castlevania: Symphony of the Night,PS,1997,Platform,Konami  ,Konami Computer Entertainment Tokyo  ,9.3,8.7,0.58,0.4,0.21,0.08,1.27
 1684,Valkyria Chronicles,PS3,2008,Role-Playing,Sega  ,Sega WOW Overworks  ,8.4,9.8,0.71,0.19,0.24,0.12,1.27
@@ -1756,7 +1756,7 @@ Rank,Name,Platform,Year,Genre,Publisher,Developer,Critic_Score,User_Score,NA_Sal
 1755,Ninja Gaiden,XB,2004,Action,Tecmo  ,Team Ninja  ,9.4,,0.92,0.2,0.07,0.04,1.23
 1756,Crash Bandicoot: The Wrath of Cortex,XB,2002,Platform,Universal Interactive  ,Traveller's Tales  ,,,0.59,0.57,,0.07,1.23
 1757,Driv3r,PS2,2004,Racing,Atari  ,Reflections Interactive  ,,,0.6,0.47,,0.16,1.23
-1758,Guitar Hero: Aerosmith,X360,2008,Misc,Activision  ,Neversoft  ,,,1.0,0.13,,0.1,1.23
+1758,Guitar Hero: Aerosmith,X360,2008,Music,Activision  ,Neversoft  ,,,1.0,0.13,,0.1,1.23
 1759,Disney's Tarzan / Disney's Aladdin in Nasira's Revenge / Disney's The Emperor's New Groove Action Game,PS,2003,Misc,Sony Computer Entertainment  ,Various  ,,,0.69,0.47,,0.08,1.23
 1760,2010 FIFA World Cup South Africa,PS3,2010,Sports,EA Sports  ,EA Canada  ,8.2,,0.3,0.64,0.07,0.22,1.23
 1761,Kirby Tilt 'n' Tumble,GB,2001,Puzzle,Nintendo  ,HAL Laboratory  ,,,0.29,0.17,0.75,0.02,1.23
@@ -1928,7 +1928,7 @@ Rank,Name,Platform,Year,Genre,Publisher,Developer,Critic_Score,User_Score,NA_Sal
 1927,Tenchu: Wrath of Heaven,PS2,2003,Action,Activision  ,K2 LLC  ,,,0.44,0.34,0.25,0.11,1.14
 1928,Shadow of the Colossus,PS2,2005,Adventure,Sony Computer Entertainment  ,Team ICO  ,9.1,9.4,0.78,0.03,0.2,0.13,1.14
 1929,Brave Fencer Musashi,PS,1998,Role-Playing,Square  ,SquareSoft  ,8.4,,0.25,0.17,0.65,0.07,1.14
-1930,Dance Dance Revolution Extreme 2,PS2,2005,Simulation,Konami  ,Konami Computer Entertainment Hawaii  ,,,0.95,0.04,,0.16,1.14
+1930,Dance Dance Revolution Extreme 2,PS2,2005,Music,Konami  ,Konami Computer Entertainment Hawaii  ,,,0.95,0.04,,0.16,1.14
 1931,Mortal Kombat,X360,2011,Fighting,Warner Bros. Interactive  ,NetherRealm Studios  ,8.3,,0.85,0.19,,0.1,1.14
 1932,Hot Shots Golf: Out of Bounds,PS3,2008,Sports,Sony Computer Entertainment  ,Clap Hanz  ,8.3,,0.31,0.03,0.76,0.04,1.14
 1933,Commando,NES,1986,Action,Capcom  ,Capcom  ,,,0.71,0.16,0.25,0.03,1.14
@@ -1953,11 +1953,11 @@ Rank,Name,Platform,Year,Genre,Publisher,Developer,Critic_Score,User_Score,NA_Sal
 1952,Tom Clancy's Rainbow Six 3: Black Arrow,XB,2004,Shooter,Ubisoft  ,Ubisoft Montreal  ,,,0.99,0.12,,0.02,1.13
 1953,The Elder Scrolls V: Skyrim VR,PS4,2017,Role-Playing,Bethesda Softworks  ,Bethesda Softworks  ,,,0.47,0.47,0.01,0.19,1.13
 1954,Donkey Kong,NES,1986,Platform,Nintendo  ,Nintendo  ,,,0.23,0.05,0.84,0.01,1.13
-1955,Guitar Hero 5,X360,2009,Misc,Activision  ,Neversoft Entertainment  ,9.0,,0.65,0.37,,0.11,1.13
+1955,Guitar Hero 5,X360,2009,Music,Activision  ,Neversoft Entertainment  ,9.0,,0.65,0.37,,0.11,1.13
 1956,Rocksmith,PS3,2011,Misc,Ubisoft  ,Ubisoft  ,8.0,,0.53,0.38,0.09,0.13,1.13
 1957,Jampack Winter '98,PS,1998,Misc,Sony Computer Entertainment  ,Sony Computer Entertainment America  ,,,0.63,0.43,,0.07,1.13
 1958,Fight Night Champion,PS3,2011,Fighting,EA Sports  ,EA Canada  ,8.4,,0.45,0.5,,0.18,1.13
-1959,SingStar,PS3,2008,Misc,Sony Computer Entertainment  ,SCEE London Studio  ,,,0.45,0.56,,0.12,1.13
+1959,SingStar,PS3,2008,Music,Sony Computer Entertainment  ,SCEE London Studio  ,,,0.45,0.56,,0.12,1.13
 1960,Pokémon Mystery Dungeon: Red Rescue Team (US weekly sales),GBA,2006,Role-Playing,Nintendo  ,ChunSoft  ,,,0.81,0.3,,0.02,1.13
 1961,ModNation Racers,PS3,2010,Racing,Sony Computer Entertainment  ,United Front Games  ,8.1,,0.5,0.4,0.06,0.16,1.13
 1962,Rabbids Go Home,Wii,2009,Adventure,Ubisoft  ,Ubisoft Montpellier  ,8.0,,0.25,0.74,,0.14,1.13
@@ -1972,8 +1972,8 @@ Rank,Name,Platform,Year,Genre,Publisher,Developer,Critic_Score,User_Score,NA_Sal
 1971,Need for Speed: Most Wanted (2012),PSV,2012,Racing,Electronic Arts  ,Criterion Games  ,7.4,,0.33,0.53,0.01,0.25,1.12
 1972,WWE 2K14,X360,2013,Fighting,2K Sports  ,Yuke's  ,7.6,,0.64,0.38,,0.1,1.12
 1973,Sonic and the Black Knight,Wii,2009,Platform,Sega  ,Sonic Team  ,4.8,8.5,0.66,0.34,0.01,0.11,1.12
-1974,The Beatles: Rock Band,PS3,2009,Misc,MTV Games  ,Harmonix Music Systems  ,8.7,,0.67,0.29,,0.15,1.12
-1975,Guitar Hero 5,PS2,2009,Misc,Activision  ,BudCat Creations  ,,,0.28,0.3,,0.54,1.12
+1974,The Beatles: Rock Band,PS3,2009,Music,MTV Games  ,Harmonix Music Systems  ,8.7,,0.67,0.29,,0.15,1.12
+1975,Guitar Hero 5,PS2,2009,Music,Activision  ,BudCat Creations  ,,,0.28,0.3,,0.54,1.12
 1976,Worldwide Soccer Manager 2008,PC,2007,Sports,Sega  ,Sports Interactive  ,,,,1.12,,0.0,1.12
 1977,Dragon Age II,X360,2011,Role-Playing,Electronic Arts  ,BioWare Corp.  ,8.0,,0.72,0.29,0.01,0.09,1.12
 1978,Spider-Man 2,XB,2004,Action,Activision  ,Treyarch  ,7.7,,0.82,0.26,,0.04,1.12
@@ -1986,8 +1986,8 @@ Rank,Name,Platform,Year,Genre,Publisher,Developer,Critic_Score,User_Score,NA_Sal
 1985,LEGO Marvel Super Heroes 2,PS4,2017,Action,Warner Bros. Interactive Entertainment  ,Traveller's Tales  ,,,0.33,0.6,0.0,0.18,1.11
 1986,Disney Infinity 2.0: Marvel Super Heroes,X360,2014,Action-Adventure,Disney Interactive Studios  ,Avalanche Software  ,,,0.67,0.34,,0.1,1.11
 1987,Castlevania: Lords of Shadow,PS3,2010,Action,Konami  ,Mercury Steam  ,8.1,,0.5,0.37,0.1,0.15,1.11
-1988,Guitar Hero Encore: Rocks The 80s,PS2,2007,Misc,RedOctane  ,Harmonix Music Systems  ,,,0.92,0.04,,0.15,1.11
-1989,Rock Band,PS2,2007,Misc,MTV Games  ,Harmonix Music Systems  ,8.1,,0.71,0.06,,0.35,1.11
+1988,Guitar Hero Encore: Rocks The 80s,PS2,2007,Music,RedOctane  ,Harmonix Music Systems  ,,,0.92,0.04,,0.15,1.11
+1989,Rock Band,PS2,2007,Music,MTV Games  ,Harmonix Music Systems  ,8.1,,0.71,0.06,,0.35,1.11
 1990,Tom Clancy's Splinter Cell: Chaos Theory,XB,2005,Action,Ubisoft  ,Ubisoft Montreal  ,9.4,,0.68,0.38,,0.05,1.11
 1991,Arc the Lad,PS,1995,Role-Playing,Sony Computer Entertainment  ,G-Craft  ,,,,,1.1,0.01,1.11
 1992,Donkey Kong Jr.,NES,1986,Platform,Nintendo  ,Nintendo R&D1  ,,,0.33,0.07,0.7,0.01,1.11
